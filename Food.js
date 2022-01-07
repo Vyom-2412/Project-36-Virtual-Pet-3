@@ -1,4 +1,4 @@
-class Food {
+class FoodClass {
     constructor () {
       
         this.foodStock = 0;
